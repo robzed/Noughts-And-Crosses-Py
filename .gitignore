@@ -1,0 +1,12 @@
+
+# we don't care about replit files
+poetry.lock
+pyproject.html
+venv/
+.breakpoints
+.replit
+__pycache__/
+pyproject.toml
+replit.nix
+.config/
+
